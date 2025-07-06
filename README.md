@@ -1,15 +1,33 @@
 ## Hi there 👋
 
-### I am passionate about building impactable and sustainable products, love experimenting with new technologies! 👋 
+### My name is Muhammad K. Abdullahi , and I'm an experienced Agile Team Facilitator (Scrum Master) at SAP with a background in software development and Agile coaching. I thrive on fostering high-performing teams to build scalable and innovative products.
 
+
+
+- 🔭 I’m currently working as a Fellowship Prompt Engineer and Scrum Master at SAP in Budapest, Hungary.
+
+
+- 🌱 I’m currently learning and applying my skills in Generative AI and Prompt Engineering.
+
+
+- 👯 I’m looking to collaborate on projects involving Agile methodologies, GenAI, and mobile app development.
+
+- 💬 Ask me about SAP, Agile best practices , Prompt Engineering, and software development.
+
+
+- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mkabdullahi/)
+
+LinkedIn 
+
+- ⚡ Fun fact: I can speaks 4 languages becuase I lived in 3 different countries... still exploring our world
 
 
 - 🔭 I’m currently working as an Agile Team Facilitator at SAP Lab Hungary
 - 🌱 I’m currently learning Flutter, AWS, and Improving my Scrum Masters skills
 - 👯 I’m looking to collaborate on Scrum Team Building and Flutter mobile apps. 
 - 💬 Ask me about SAP Tools and Services, Agile Methodologies, Web Development and Mobile apps 
-- 📫 How to reach me: [LinkedIn](https://www.linkedin.com/in/mkabdullahi/)
-- ⚡ Fun fact: I can speaks 4 languages becuase I lived in 3 different countries... still exploring our world
+
+
 
   ## 📈 My Statistics
 
